@@ -1,4 +1,4 @@
-﻿# Link-in-Bio Page Builder
+# Link-in-Bio Page Builder
 
 ![E2E Self-Healing AI Coding Framework](public/e2e-self-healing.png)
 
@@ -108,4 +108,4 @@ src/
 
 ---
 
-Projeto adaptado da comunidade INEMA TDS - Marca Arckhe
+Projeto adaptado da comunidade ARCKHÉ TDS - Marca Arckhe
